@@ -607,7 +607,7 @@
     "@types/vscode": "~1.92.0",
     "@vscode/debugprotocol": "^1.68.0",
     "@vscode/test-electron": "^2.4.1",
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.0",
     "glob": "^10.0.0",
     "mocha": "^10.0.0",
     "npm-run-all": "^4.0.0",
